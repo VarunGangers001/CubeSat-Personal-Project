@@ -6,5 +6,5 @@
 
 |------------|-------|--------|
 
-| mass | <1.33kg | CubeSat101 |
+| mass | less than 1.33kg | CubeSat101 |
 
