@@ -22,7 +22,7 @@
 
     * Harmful Algal Blooms (HABs) contain photosynthetic pigments like Chlorophyll-a and Phycocyanin. These pigments absorb and scatter specific wavelengths of light
     * The 50–100m GSD Validity: While massive ocean sensors like NASA's PACE monitor global open-ocean water at a coarse >1km GSD, they are completely blind to complex coastal zones, estuaries, narrow 	bays, and inland reservoirs. A 50–100m hyperspectral CubeSat allows you to capture smaller inland lakes and coastal water bodies without pixel contamination from the shoreline
-* Arctic Ice Sheet Albedo \& Melt Dynamics
+  * Arctic Ice Sheet Albedo \& Melt Dynamics
 
-  * The Science: Fresh, dry snow has a very high albedo (\~0.9). As the climate warms, the ice melts, changes grain size, traps pooled water, and accumulates "impurities" like light-absorbing glacial algae, dust, and wildfire soot. Hyperspectral sensors can detect the exact chemical signature of these impurities and variations in ice grain sizes across a spectrum spanning the Visible to Short-Wave Infrared (VNIR to SWIR, 400nm to 2500nm).
+    * The Science: Fresh, dry snow has a very high albedo (\~0.9). As the climate warms, the ice melts, changes grain size, traps pooled water, and accumulates "impurities" like light-absorbing glacial algae, dust, and wildfire soot. Hyperspectral sensors can detect the exact chemical signature of these impurities and variations in ice grain sizes across a spectrum spanning the Visible to Short-Wave Infrared (VNIR to SWIR, 400nm to 2500nm).
 
