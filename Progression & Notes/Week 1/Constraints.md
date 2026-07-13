@@ -12,3 +12,4 @@
 | Propulsion           | No propulsion system, passive orbit maintenance                          |                                    |
 | Study type           | Conceptual design only                                                   |                                    |
 | Design lifetime      | > 1 year operational life                                                | Mission requirements               |
+| Operational season   | Optical imaging limited to Arctic spring–autumn due to polar night       | Solar geometry                     |
