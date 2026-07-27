@@ -223,13 +223,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "912aff23cfaa14cf",
   "lastOpenFiles": [
-    "README.md",
+    "Excalidraw/Drawing 2026-07-27 00.44.57.excalidraw.md",
     "References/readme.md",
+    "Excalidraw",
+    "Untitled.md",
+    "README.md",
     "CAD/README.md",
     "Progression & Notes/Week 1/Requirements.md",
     "References",
