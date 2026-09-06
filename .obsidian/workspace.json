@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/readme.md",
+                "file": "Progression & Notes/Week 1/Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Requirements"
             }
           }
         ],
@@ -84,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -217,6 +219,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -226,20 +229,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "912aff23cfaa14cf",
+  "active": "16560f26619cfd22",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-07-27 00.44.57.excalidraw.md",
+    "Toolkit_Guide.md",
+    "Progression & Notes/Week 1/Week 1 Notes.md",
+    "Progression & Notes/Week 1/Requirements.md",
+    "Progression & Notes/Week 1/Mission Statement.md",
+    "Progression & Notes/Week 1/ConOps.md",
+    "Progression & Notes/Week 1/Constraints.md",
+    "CubeSat_Project_Plan_6Week.pdf",
     "References/readme.md",
+    "Excalidraw/Drawing 2026-07-27 00.44.57.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
     "README.md",
     "CAD/README.md",
-    "Progression & Notes/Week 1/Requirements.md",
     "References",
-    "Progression & Notes/Week 1/Week 1 Notes.md",
-    "Progression & Notes/Week 1/Mission Statement.md",
-    "Progression & Notes/Week 1/ConOps.md",
-    "Progression & Notes/Week 1/Constraints.md",
     "Progression & Notes/Week 1/Constraints list.md"
   ]
 }
